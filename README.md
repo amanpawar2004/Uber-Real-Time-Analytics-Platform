@@ -275,32 +275,31 @@ streamlit run app.py
 
 ## 📊 Live Dashboard
 
-> Add your dashboard screenshot here.
+> 
 ![Dashboard](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/D1.png?raw=true)
 ![Dashboard](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/D2.png?raw=true)
 ---
 
 ## ⚡ Apache Flink Processing
 
-> Add your Flink terminal screenshot here.
+> 
 ![Flink](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/D10.png?raw=true)
 ---
 
 ## 📡 Kafka Producer
 
-> Add your Kafka producer screenshot here.
+> 
 ![Kafka Producer](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/D9.png?raw=true)
 ---
 
 ## 🐳 Docker Containers
-
-> Add your Docker Desktop screenshot here.
+>
 ![Docker](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/Image3.png?raw=true)
 ---
 
 ## ✅ GitHub Actions CI/CD
 
-> Add your GitHub Actions screenshot here.
+> 
 ![GitHub Actions](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/image.png?raw=true)
 ---
 
