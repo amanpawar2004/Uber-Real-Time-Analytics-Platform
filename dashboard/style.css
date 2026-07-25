@@ -1,0 +1,73 @@
+/* ================================
+   Main Background
+================================ */
+.stApp {
+    background-color: #0E1117;
+}
+
+/* ================================
+   KPI Cards
+================================ */
+
+[data-testid="stMetric"] {
+    background-color: #1E293B;
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid #334155;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.35);
+}
+
+/* Hover Effect */
+
+[data-testid="stMetric"]:hover {
+    border: 1px solid #22C55E;
+    transform: translateY(-3px);
+    transition: 0.3s;
+}
+
+/* ================================
+   KPI Label
+================================ */
+
+[data-testid="stMetricLabel"] {
+    font-size: 15px !important;
+    font-weight: 600;
+}
+
+/* ================================
+   KPI Value
+================================ */
+
+[data-testid="stMetricValue"] {
+    font-size: 24px !important;
+    font-weight: 700 !important;
+    white-space: nowrap !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
+}
+
+/* ================================
+   Sidebar
+================================ */
+
+section[data-testid="stSidebar"] {
+    background-color: #111827;
+}
+
+/* ================================
+   Titles
+================================ */
+
+h1,
+h2,
+h3 {
+    color: white;
+}
+
+/* ================================
+   Divider
+================================ */
+
+hr {
+    border: 1px solid #334155;
+}
