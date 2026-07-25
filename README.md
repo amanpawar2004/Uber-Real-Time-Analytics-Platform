@@ -317,9 +317,9 @@ It demonstrates industry-relevant skills expected from **Data Engineers, Data An
 
 **Data Engineering | Python | Apache Kafka | Apache Flink | Docker | Streamlit | SQL | GitHub | Data Analytics**
 
-📧 Email: your-email@example.com
+📧 Email: amanpawar5100@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin/
+💼 LinkedIn: https://www.linkedin.com/in/aman-pawar-7a72852bb/
 
 🌐 GitHub: https://github.com/amanpawar2004
 
