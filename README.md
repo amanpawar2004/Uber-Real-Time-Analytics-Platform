@@ -301,7 +301,7 @@ streamlit run app.py
 ## ✅ GitHub Actions CI/CD
 
 > Add your GitHub Actions screenshot here.
-![GitHub Actions](images/github-actions.png)
+![GitHub Actions](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/image.png?raw=true)
 ---
 
 # 🎯 Why This Project?
