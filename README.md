@@ -276,7 +276,8 @@ streamlit run app.py
 ## 📊 Live Dashboard
 
 > Add your dashboard screenshot here.
-![Dashboard](images/dashboard-1.png)
+![Dashboard](![Uploading image.png…]()
+)
 ---
 
 ## ⚡ Apache Flink Processing
