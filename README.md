@@ -277,6 +277,7 @@ streamlit run app.py
 
 > Add your dashboard screenshot here.
 ![Dashboard](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/D1.png?raw=true)
+![Dashboard](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/D2.png?raw=true)
 ---
 
 ## ⚡ Apache Flink Processing
