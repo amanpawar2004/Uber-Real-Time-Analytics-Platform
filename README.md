@@ -276,7 +276,7 @@ streamlit run app.py
 ## 📊 Live Dashboard
 
 > Add your dashboard screenshot here.
-
+![Dashboard](images/dashboard-1.png)
 ---
 
 ## ⚡ Apache Flink Processing
@@ -288,19 +288,19 @@ streamlit run app.py
 ## 📡 Kafka Producer
 
 > Add your Kafka producer screenshot here.
-
+![Kafka Producer](images/kafka-producer.png)
 ---
 
 ## 🐳 Docker Containers
 
 > Add your Docker Desktop screenshot here.
-
+![Docker](images/docker-containers.png)
 ---
 
 ## ✅ GitHub Actions CI/CD
 
 > Add your GitHub Actions screenshot here.
-
+![GitHub Actions](images/github-actions.png)
 ---
 
 # 🎯 Why This Project?
