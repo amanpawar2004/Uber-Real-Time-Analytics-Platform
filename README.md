@@ -289,7 +289,7 @@ streamlit run app.py
 ## 📡 Kafka Producer
 
 > Add your Kafka producer screenshot here.
-![Kafka Producer](images/kafka-producer.png)
+![Kafka Producer](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/D9.png?raw=true)
 ---
 
 ## 🐳 Docker Containers
