@@ -295,7 +295,7 @@ streamlit run app.py
 ## 🐳 Docker Containers
 
 > Add your Docker Desktop screenshot here.
-![Docker](images/docker-containers.png)
+![Docker](https://github.com/amanpawar2004/Uber-Real-Time-Analytics-Platform/blob/main/Image3.png?raw=true)
 ---
 
 ## ✅ GitHub Actions CI/CD
